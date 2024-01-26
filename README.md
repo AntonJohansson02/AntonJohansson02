@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning Java 
+🌱 I’m currently learning Java  
+
 💬 Ask me about Python
 
 <!--
